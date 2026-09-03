@@ -1,4 +1,4 @@
-package com.learning.kafka;
+package com.learning.kafka.producer;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.kafka.core.KafkaTemplate;

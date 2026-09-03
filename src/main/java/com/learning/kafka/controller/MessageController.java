@@ -1,5 +1,6 @@
-package com.learning.kafka;
+package com.learning.kafka.controller;
 
+import com.learning.kafka.dto.MessageRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.support.SendResult;
